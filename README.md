@@ -11,7 +11,6 @@ I like building reliable software close to the hardware, and I’m also very int
 ## Connect with me
 
 - [Email](mailto:abdelrahman.5alifa@gmail.com)
-- [GitHub](https://github.com/Abd002)
 - [LinkedIn](https://linkedin.com/in/abd-elrahman-khalifa-8099b4218)
 - [Telegram](https://t.me/Abd0o02)
 
