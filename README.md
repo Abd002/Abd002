@@ -18,7 +18,7 @@ I like building reliable software close to the system, and I’m especially inte
 ## 🔭 Currently
 
 - **Google Summer of Code 2026 @ Linux Foundation / OpenPrinting**: building the printer setup tool for the COSMIC desktop in Rust (CUPS/IPP, DNS-SD, Printer Applications). → [Report](https://github.com/Abd002/GSOC-2026) · [Code](https://github.com/Abd002/cosmic-printers)
-- **Embedded Systems Engineer**: Zephyr firmware and C++/Qt tooling.
+- **Embedded Systems Engineer @ EKSON**: writing Zephyr firmware for 3-DoF motion simulators (migrated from FreeRTOS), and a C++/Qt control app that I made ~40% faster with async processing and multithreading.
 
 ## ⭐ Open Source
 
