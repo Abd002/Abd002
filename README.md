@@ -39,6 +39,6 @@ Google Summer of Code 2026 · Winter of Code contributor · ECPC finalist · Cod
 
 ## 📫 Connect with me
 
-- [Email](mailto:abdelrahman.5alifa@gmail.com)
+- [Email](mailto:abdelrahman.khalifa.gad@gmail.com)
 - [LinkedIn](https://linkedin.com/in/abd-elrahman-khalifa-8099b4218)
 - [Telegram](https://t.me/Abd0o02)
